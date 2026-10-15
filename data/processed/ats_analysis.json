@@ -1,0 +1,117 @@
+{
+    "overall_score": 85.0,
+    "required_skill_match_percentage": 75.0,
+    "preferred_skill_match_percentage": 100.0,
+    "matched_required_skills": [
+        "Ability to maintain client or student records",
+        "Ability to work with teachers, counselors, families, and healthcare professionals"
+    ],
+    "partial_required_skills": [
+        "Strong communication",
+        "Organizational skills"
+    ],
+    "missing_required_skills": [],
+    "matched_preferred_skills": [],
+    "partial_preferred_skills": [],
+    "missing_preferred_skills": [],
+    "required_requirement_analysis": [
+        {
+            "requirement": "Strong communication",
+            "status": "PARTIAL",
+            "evidence": [
+                {
+                    "text": "Coordinated client contact with local health care professionals on a monthly basis.",
+                    "source": "functional_experience"
+                },
+                {
+                    "text": "Assisted teachers with managing daily classroom activities.",
+                    "source": "functional_experience"
+                }
+            ],
+            "match_method": "semantic"
+        },
+        {
+            "requirement": "Organizational skills",
+            "status": "PARTIAL",
+            "evidence": [
+                {
+                    "text": "Managed 25 volunteer workers.",
+                    "source": "functional_experience"
+                },
+                {
+                    "text": "Coordinated service assignments for 20 part-time counselors and 100 client families.",
+                    "source": "functional_experience"
+                }
+            ],
+            "match_method": "semantic"
+        },
+        {
+            "requirement": "Ability to maintain client or student records",
+            "status": "MATCH",
+            "evidence": [
+                {
+                    "text": "Maintained client databases and records.",
+                    "source": "functional_experience"
+                }
+            ],
+            "match_method": "semantic"
+        },
+        {
+            "requirement": "Ability to work with teachers, counselors, families, and healthcare professionals",
+            "status": "MATCH",
+            "evidence": [
+                {
+                    "text": "Coordinated service assignments for 20 part-time counselors and 100 client families.",
+                    "source": "functional_experience"
+                },
+                {
+                    "text": "Assisted teachers with managing daily classroom activities.",
+                    "source": "functional_experience"
+                },
+                {
+                    "text": "Coordinated client contact with local health care professionals on a monthly basis.",
+                    "source": "functional_experience"
+                },
+                {
+                    "text": "Assisted families of special needs clients with researching financial assistance and healthcare.",
+                    "source": "functional_experience"
+                }
+            ],
+            "match_method": "semantic"
+        }
+    ],
+    "preferred_requirement_analysis": [],
+    "education_match": true,
+    "experience_match": true,
+    "matched_keywords": [
+        "Childcare",
+        "Early Childhood Development",
+        "records",
+        "special needs",
+        "healthcare",
+        "families"
+    ],
+    "missing_keywords": [
+        "Program Coordinator",
+        "communication",
+        "organizational",
+        "volunteers"
+    ],
+    "recommendations": [
+        {
+            "type": "evidence",
+            "priority": "high",
+            "message": "If accurate, describe your existing coordination responsibilities using wording supported by your resume rather than claiming the job title \"Program Coordinator\"."
+        },
+        {
+            "type": "keyword",
+            "priority": "high",
+            "message": "Include the term \"communication\" (e.g., \"Strong communication skills demonstrated through regular coordination with healthcare professionals, teachers, counselors, and families\")."
+        },
+        {
+            "type": "keyword",
+            "priority": "high",
+            "message": "Insert the word \"Childcare\" to explicitly link your experience overseeing daily activities and outings for client families."
+        }
+    ]
+}

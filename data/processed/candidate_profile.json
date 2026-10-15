@@ -1,0 +1,83 @@
+{
+    "name": "John W. Smith",
+    "email": "jwsmith@colostate.edu",
+    "phone": null,
+    "summary": "Four years experience in early childhood development with a diverse background in the care of special needs children and adults.",
+    "education": [
+        {
+            "degree": "BS",
+            "institution": "University of Arkansas at Little Rock",
+            "field_of_study": "Early Childhood Development",
+            "start_year": null,
+            "end_year": "1999",
+            "grade": "3.8",
+            "overall_gpa": null
+        },
+        {
+            "degree": "BA",
+            "institution": "University of Arkansas at Little Rock",
+            "field_of_study": "Elementary Education",
+            "start_year": null,
+            "end_year": "1998",
+            "grade": "3.5",
+            "overall_gpa": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Counseling Supervisor",
+            "company": "The Wesley Center",
+            "start_date": "1999",
+            "end_date": "2002",
+            "responsibilities": [],
+            "achievements": []
+        },
+        {
+            "job_title": "Client Specialist",
+            "company": "Rainbow Special Care Center",
+            "start_date": "1997",
+            "end_date": "1999",
+            "responsibilities": [],
+            "achievements": []
+        },
+        {
+            "job_title": "Teacher’s Assistant",
+            "company": "Cowell Elementary",
+            "start_date": "1996",
+            "end_date": "1997",
+            "responsibilities": [],
+            "achievements": []
+        }
+    ],
+    "functional_experience": [
+        {
+            "category": "Adult Care Experience",
+            "responsibilities": [
+                "Determined work placement for 150 special needs adult clients.",
+                "Maintained client databases and records.",
+                "Coordinated client contact with local health care professionals on a monthly basis.",
+                "Managed 25 volunteer workers."
+            ]
+        },
+        {
+            "category": "Childcare Experience",
+            "responsibilities": [
+                "Coordinated service assignments for 20 part-time counselors and 100 client families.",
+                "Oversaw daily activity and outing planning for 100 clients.",
+                "Assisted families of special needs clients with researching financial assistance and healthcare.",
+                "Assisted teachers with managing daily classroom activities.",
+                "Oversaw daily and special student activities."
+            ]
+        }
+    ],
+    "projects": [],
+    "certifications": [],
+    "technical_skills": [],
+    "soft_skills": [],
+    "programming_languages": [],
+    "tools_and_technologies": [],
+    "achievements": [
+        "Dean’s List",
+        "Chancellor’s List"
+    ]
+}
